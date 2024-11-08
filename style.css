@@ -88,6 +88,7 @@ nav ul li:hover{
     width: fit-content;
     font-size: 3.5rem;
 font-family: 'Poppins', sans-serif;
+margin-inline:auto;
 }
 
 
@@ -135,7 +136,7 @@ font-family: 'Poppins', sans-serif;
     position: absolute;
     top: 47vh;
     left: 15vw;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(50px);
 }
 
 .blurbox > p{
